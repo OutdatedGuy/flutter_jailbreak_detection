@@ -14,7 +14,6 @@ Flutter jailbreak and root detection plugin. This plugin wraps DTTJailbreakDetec
   s.author           = { 'Jeroen Trappers' => 'jeroen@appmire.be' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
-  s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'IOSSecuritySuite'
   s.platform = :ios, '12.0'
