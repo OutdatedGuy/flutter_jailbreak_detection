@@ -1,14 +1,11 @@
 ## 1.8.0
 
-- Upgrade android embedding
-  Thanks https://github.com/xPutnikx for the PR.
-- Fixed header issue
-  Thanks https://github.com/cr0manty for the PR.
+- Upgrade android embedding. Thanks https://github.com/xPutnikx for the PR.
+- Fixed header issue. Thanks https://github.com/cr0manty for the PR.
 
 ## 1.7.0
 
-- Upgrade rootbeer to 0.0.10
-  Thanks https://github.com/patuoynageek for the PR.
+- Upgrade rootbeer to 0.0.10 Thanks https://github.com/patuoynageek for the PR.
 
 ## 1.6.0
 
@@ -16,9 +13,9 @@
 
 ## 1.5.0
 
-Upgrade to kotlin 1.3.30. Thanks https://github.com/kmoorejr9 for the PR.
-Support for null safety. Thanks https://github.com/tvh for the PR.
-Rootbeer dependency fix. Thanks https://github.com/benoitskipr for the PR.
+- Upgrade to kotlin 1.3.30. Thanks https://github.com/kmoorejr9 for the PR.
+- Support for null safety. Thanks https://github.com/tvh for the PR.
+- Rootbeer dependency fix. Thanks https://github.com/benoitskipr for the PR.
 
 ## 1.4.0
 
