@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.version          = '1.0.0'
   s.summary          = 'Flutter jailbreak and root detection plugin.'
   s.description      = <<-DESC
-Flutter jailbreak and root detection plugin. This plugin wraps DTTJailbreakDetection for use on iOS.
+Flutter jailbreak and root detection plugin. This plugin wraps IOSSecuritySuite for use on iOS.
                        DESC
   s.homepage         = 'https://github.com/jeroentrappers/flutter_jailbreak_detection'
   s.license          = { :file => '../LICENSE' }
