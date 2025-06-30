@@ -21,7 +21,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  flutter_jailbreak_detection: ccfc4fc45f2c02398d2cdd34fc091a5f8eac24b9
+  flutter_jailbreak_detection: 9b7161a65c636a5ec5a76a226c5be9eda49c4ea8
   IOSSecuritySuite: b51056d5411aee567153ca86ce7f6edfdc5d2654
 
 PODFILE CHECKSUM: c4c93c5f6502fe2754f48404d3594bf779584011
